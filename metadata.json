@@ -1,0 +1,6 @@
+{
+  "name": "Parametryczny Konfigurator 3D Pergoli Garażowej",
+  "description": "Profesjonalny konfigurator 3D nowoczesnych zadaszeń samochodowych i pergoli garażowych z kalkulacją kosztów, specyfikacją techniczną i wizualizacją w czasie rzeczywistym.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
